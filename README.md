@@ -8,3 +8,5 @@
 #### I used Tableau software to visualize and explore the data.
 #### Insights from the analysis can be found in this article: https://medium.com/@azamegbesarah/nba-playoffs-web-scraping-and-eda-project-91fb1b9239a8
 #### Snippets of article👇
+#### ![alt text](https://github.com/Lehita/NBA-Playoffs-Analysis/blob/f1d82abc62d18cb22baf96b07f75dad014768522/Screenshot_20221007-141932_Medium.jpg)
+#### ![alt text](https://github.com/Lehita/NBA-Playoffs-Analysis/blob/f1d82abc62d18cb22baf96b07f75dad014768522/Screenshot_20221007-141953_Medium.jpg)
