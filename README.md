@@ -1,4 +1,10 @@
-## NBA PLAYOFFS WEB SCRAPING AND EDA
+## NBA Playoffs Web Scraping and Exploratory Data Analysis (EDA)
 ### ABOUT
-
-#### Link to article: https://medium.com/@azamegbesarah/nba-playoffs-web-scraping-and-eda-project-91fb1b9239a8
+#### This is my first web scraping project. The aim of carrying out this project was to practice web scraping. 
+#### The project highlights the shift in team dominance and player dominance in the National Basketball Association (NBA) playoffs from 1982 to 2022.
+### SUMMARY OF PROJECT
+#### I used the Requests library in Python to send HTTP requests and BeautifulSoup to parse the HTML. 
+#### After extracting the necessary information (column headers and rows), I created a pandas data frame and then wrangled the data. 
+#### I used Tableau software to visualize and explore the data.
+#### Insights from the analysis can be found in this article: https://medium.com/@azamegbesarah/nba-playoffs-web-scraping-and-eda-project-91fb1b9239a8
+#### Snippets of article👇
